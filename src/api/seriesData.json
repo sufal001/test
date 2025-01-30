@@ -1,0 +1,62 @@
+[
+    {
+        "name" : "Iron man 2",
+        "id" : "Iron man 2",
+        "rating" : "9.5",
+        "image_url" : " /images/ironman.jpg",
+        "description" : "Tony Stark is under pressure from various sources, to share his technology with the world. And, he needs to find a way to deal with his enemies.",
+        "cast" : "Toney Stack",
+        "genre" : ["Action, Drama, Science fiction"],
+        "watch_url" : "https://www.hotstar.com/in/movies/iron-man/1660000038"
+    },
+    {
+        "name" : "Avengers",
+        "id" : "Avengers",
+        "rating" : "9.7",
+        "image_url" : " /images/avenjeres.jpg",
+        "description" : "After the devastating events of the Infinity War, the Avengers assemble once more to reverse Thanos’ actions and restore balance to the universe.",
+        "cast" : "Toney Stack",
+        "genre" : ["Action, Drama, Science fiction"],
+        "watch_url" : "https://www.hotstar.com/in/movies/avengers-endgame/1260013556"
+    },
+    {
+        "name" : "Captain Amarica",
+        "id" : "Captain America",
+        "rating" : "9.2",
+        "image_url" : " /images/captain_amarica.jpeg",
+        "description" : "After being injected with a special 'Super-Soldier' serum which leads to him developing superpowers Steve must thwart the plans of a warmonger.",
+        "cast" : "Marvel",
+        "genre" : ["Action, Super Hero, Science fiction"],
+        "watch_url" : "https://www.hotstar.com/in/movies/captain-america-the-first-avenger/1660000034"
+    },
+    {
+        "name" : "Captain Amarica",
+        "id" : "Captain America",
+        "rating" : "9.2",
+        "image_url" : " /images/captain_amarica.jpeg",
+        "description" : "After being injected with a special 'Super-Soldier' serum which leads to him developing superpowers Steve must thwart the plans of a warmonger.",
+        "cast" : "Marvel",
+        "genre" : ["Action, Super Hero, Science fiction"],
+        "watch_url" : "https://www.hotstar.com/in/movies/captain-america-the-first-avenger/1660000034"
+    },
+    {
+        "name" : "Captain Amarica",
+        "id" : "Captain America",
+        "rating" : "9.2",
+        "image_url" : " /images/captain_amarica.jpeg",
+        "description" : "After being injected with a special 'Super-Soldier' serum which leads to him developing superpowers Steve must thwart the plans of a warmonger.",
+        "cast" : "Marvel",
+        "genre" : ["Action, Super Hero, Science fiction"],
+        "watch_url" : "https://www.hotstar.com/in/movies/captain-america-the-first-avenger/1660000034"
+    },
+    {
+        "name" : "Avengers",
+        "id" : "Avengers",
+        "rating" : "9.7",
+        "image_url" : " /images/avenjeres.jpg",
+        "description" : "After the devastating events of the Infinity War, the Avengers assemble once more to reverse Thanos’ actions and restore balance to the universe.",
+        "cast" : "Toney Stack",
+        "genre" : ["Action, Drama, Science fiction"],
+        "watch_url" : "https://www.hotstar.com/in/movies/avengers-endgame/1260013556"
+    }
+]
